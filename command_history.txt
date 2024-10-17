@@ -1,4 +1,4 @@
-Cambio desde web
+Cambio desde VSCode
 Clonamos el repositorio
 git clone https://github.com/Manuersito/HLC_P1.git
 
